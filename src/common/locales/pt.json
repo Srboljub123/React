@@ -1,0 +1,95 @@
+{
+  "translation": {
+    "home": {
+      "title": "Compre Tickets",
+      "soldOut": "Vendido",
+      "loading": "Carregando..",
+      "loadingMessages": {
+          "wait": "Aguarde por favor..."
+      },
+      "description": {
+        "text": "",
+        "small": "Depois de conectar sua carteira, você poderá comprar ingressos, um de cada vez. Veja o contrato inteligente.",
+        "here": "aqui"
+      },
+      "timer": {
+        "hours": "Horas",
+        "mins": "Mins",
+        "sec": "Seg"
+      },
+      "buyButton": "Comprar agora",
+      "bidButton": "Fazer oferta",
+      "connectionButton": "Conectar Carteira",
+      "mintButton": "Cunhe seus tickets",
+      "ticketShare" : {
+        "title": "Você recebeu um NFT {{rarity}}!",
+        "description": {
+          "text": "Somente {{number}} NFTs serão cunhadas com essa versão desta arte.",
+          "small": "Compartilhe seu novo NFT no Twitter!"
+        },
+        "shareButton": "Compartilhe Agora"
+      }
+    },
+    "payments": {
+        "ticket": {
+            "connect": "Seleciona uma carteira",
+            "loading": "Carregando...",
+            "goBack": "Voltar para home",
+            "info": {
+                "contractAdress": "Endereço do contrato",
+                "network": "Rede",
+                "blockchain": "Blockchain",
+                "wallet": "Carteira"
+            },
+            "price": {
+                "title": "Título",
+                "quantity": "Quantidade",
+                "ticketPrice": "Preço do ticket",
+                "total": "Total"
+            }
+        },
+        "methods": "Métodos de pagamento",
+        "wallet": {
+            "connected": "Conectado",
+            "balance": "Seu saldo",
+            "change": "Mudar conta",
+            "pos": "Custo de transação",
+            "pow": "Custo de gas",
+            "total": "Custo total",
+            "back": "Ou selecione outro método de pagamento"
+        }
+    },
+    "success": {
+        "title": "Você recebeu um NFT {{rarity}}!",
+        "description": {
+          "text": "Somente {{number}} NFTs serão minerados com essa versão da arte.",
+          "small": "Compartile seu NFT no Twitter!"
+        },
+        "shareButton": "Compartilhar"
+    },
+    "network": {
+        "wallet": {
+            "wait": "Aguarde por favor...",
+            "connect": "Conectando carteira...",
+            "estimating": "Estimando valor do Gas...",
+            "estimated": "Valor do Gas estimado",
+            "whiteList": {
+                "handling": "Resolvendo lista branca...",
+                "fail": "Infelizmente, você não está na lista, tente novamente mais tarde"
+            },
+            "mint": {
+                "minting": "Seu ticket está sendo cunhado...",
+                "minted": "Ticket cunhado",
+                "failed": "Cunhagem falhou",
+                "warning": "Aviso: {{message}}. Podem haver transações pendentes na carteira."
+            }
+        }
+    },
+    "fallBacks": {
+        "home": "Bem vindo ao Accursed Share Curse Ticket",
+        "payments": "Carregando módulo de pagamento",
+        "success": "Ticket cunhado!",
+        "wallets": "Conectando {{wallet}}"
+    }
+  }
+}

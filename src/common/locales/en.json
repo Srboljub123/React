@@ -1,0 +1,101 @@
+{
+  "translation": {
+    "home": {
+      "title": "Buy Tickets",
+      "soldOut": "Minting is Closed",
+      "loading": "Loading...",
+      "loadingMessages": {
+          "wait": "Please wait..."
+      },
+      "description": {
+        "text": "",
+        "small": "Once you connect your wallet, you will be able to purchase tickets, one at a time. View the smart contract.",
+        "here": "here"
+      },
+      "timer": {
+        "years": "years",
+        "months": "months",
+        "days": "days",
+        "hours": "hours",
+        "mins": "mins",
+        "sec": "sec"
+      },
+      "buyNow": "Mint Now",
+      "bidButton": "Place your bid",
+      "mintButton": "Confirm payment",
+      "connectionButton": "Connect Wallet",
+      "ticketShare" : {
+        "title": "You Received a {{rarity}} NFT!",
+        "description": {
+          "text": "Only {{number}} NFTs will be minted with this version of the art.",
+          "small": "Share your new NFT on Twitter!"
+        },
+        "shareButton": "Share Now"
+      }
+    },
+    "payments": {
+        "ticket": {
+            "connect": "Select wallet provider",
+            "loading": "Loading...",
+            "goBack": "Go back to home",
+            "info": {
+                "contractAddress": "Contract address",
+                "network": "Network",
+                "blockchain": "Blockchain",
+                "wallet": "Wallet"
+            },
+            "price": {
+                "title": "Title",
+                "quantity": "Quantity",
+                "ticketPrice": "Ticket price",
+                "total": "Total"
+            }
+        },
+        "methods": "Payment methods",
+        "wallet": {
+            "connected": "Connected",
+            "balance": "Your funds",
+            "total": "Total cost",
+            "back": "Or select another payment method",
+            "change": "Change account",
+            "pos": "Transaction fee",
+            "pow": "Gas fee"
+        }
+    },
+    "success": {
+        "title": "You Received a {{rarity}} NFT!",
+        "description": {
+          "text": "Only {{number}} NFTs will be minted with this version of the art.",
+          "small": "Share your new NFT on Twitter!"
+        },
+        "shareButton": "Share Now"
+    },
+    "network": {
+        "wallet": {
+            "wait": "Wait please...",
+            "connect": "Connecting to wallet...",
+            "estimating": "Estimating Gas price...",
+            "estimated": "Gas price estimated",
+            "whiteList": {
+                "handling": "Handling white list...",
+                "fail": "Unfortunately, you are not on the list, try again later"
+            },
+            "mint": {
+                "minting": "Your ticket is being minted...",
+                "minted": "Ticket minted",
+                "failed": "Mint failed",
+                "warning": "Warning: {{message}}. Check the wallet for pending transactions."
+            },
+            "error": {
+                "denied": "MetaMask: user rejected the transaction."
+            }
+        }
+    },
+    "fallBacks": {
+        "home": "Welcome to Accursed Share Curse Ticket",
+        "payments": "Loading payments section",
+        "success": "Ticket minted!",
+        "wallets": "Connecting {{wallet}}"
+    }
+  }
+}

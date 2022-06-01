@@ -1,0 +1,152 @@
+{
+    "timer": {
+        "hasTimer": false,
+        "endPoints": [
+            {
+                "date": {
+                    "year": 2022,
+                    "month": 3,
+                    "day": 21,
+                    "hour": 18,
+                    "minute": 15,
+                    "second": 0
+                },
+                "message": "Auction will start in",
+                "whitelist": []
+            },
+            {
+                "date": {
+                    "year": 2022,
+                    "month": 3,
+                    "day": 21,
+                    "hour": 19,
+                    "minute": 15,
+                    "second": 0
+                },
+                "message": "Price will drop in",
+                "whitelist": []
+            },
+            {
+                "date": {
+                    "year": 2022,
+                    "month": 3,
+                    "day": 21,
+                    "hour": 20,
+                    "minute": 15,
+                    "second": 0
+                },
+                "message": "Price will drop in",
+                "whitelist": []
+            },
+            {
+                "date": {
+                    "year": 2022,
+                    "month": 3,
+                    "day": 21,
+                    "hour": 21,
+                    "minute": 15,
+                    "second": 0
+                },
+                "message": "Price will drop in",
+                "whitelist": []
+            },
+            {
+                "date": {
+                    "year": 2022,
+                    "month": 3,
+                    "day": 21,
+                    "hour": 22,
+                    "minute": 15,
+                    "second": 0
+                },
+                "message": "Price will drop in",
+                "whitelist": []
+            },
+            {
+                "date": {
+                    "year": 2022,
+                    "month": 3,
+                    "day": 21,
+                    "hour": 23,
+                    "minute": 15,
+                    "second": 0
+                },
+                "message": "Price will drop in",
+                "whitelist": []
+            },
+            {
+                "date": {
+                    "year": 2022,
+                    "month": 3,
+                    "day": 22,
+                    "hour": 0,
+                    "minute": 15,
+                    "second": 0
+                },
+                "message": "Price will drop in",
+                "whitelist": []
+            },
+            {
+                "date": {
+                    "year": 2022,
+                    "month": 3,
+                    "day": 22,
+                    "hour": 1,
+                    "minute": 15,
+                    "second": 0
+                },
+                "message": "Price will drop in",
+                "whitelist": []
+            },
+            {
+                "date": {
+                    "year": 2022,
+                    "month": 3,
+                    "day": 22,
+                    "hour": 2,
+                    "minute": 15,
+                    "second": 0
+                },
+                "message": "Price will drop in",
+                "whitelist": []
+            },
+            {
+                "date": {
+                    "year": 2022,
+                    "month": 3,
+                    "day": 22,
+                    "hour": 3,
+                    "minute": 15,
+                    "second": 0
+                },
+                "message": "Price will drop in",
+                "whitelist": []
+            }
+        ]
+    },
+    "paymentMethods": [
+        "metamask", "walletconnect", "coinbase"
+    ],
+    "salesBehavior": {
+        "type": "dutch_mint",
+        "priceMethod": "getPrice",
+        "mintMethod": "safeMint",
+        "batchMintMethod": "safeBatchMint"
+    },
+    "contractAddress": ["0x1c3D3f239124A1456134EC477c5Fc98BB0D5Afb6"],
+    "marketplaceUrl": [
+        {"link": "https://zestbloom.com/", "title": "zestbloom"},
+        {"link": "https://rarible.com/", "title": "rarible"},
+        {"link": "https://opensea.io/", "title": "opensea"}
+    ],
+    "socialMedias": [
+        {"link": "https://localhost:5010/success", "title": "facebook", "text": "hello world !!"},
+        {"link": "http://twitter.com/share?text=textgoeshere&url=https://www.urlgoeshere.com&hashtags=hashtag1,hashtag2,hashtag3", "title": "twitter", "text": "Hello world !!"}
+    ],
+    "mintPrice": "0.0009",
+    "assetUrl": "https://accursedshare.art/wp-content/uploads/2022/03/entangled_life_demo_mirrored-down-720p.mp4",
+    "assetThumbnail": "https://faktura.mypinata.cloud/ipfs/QmaSMUmMcx4mDjx49LbT8hNLSW27oS64rJHGaAsJD1p38U/thumbnail.png",
+    "maxQuantity": 5,
+    "network": "ethereum",
+    "blockchain": "rinkeby"
+}

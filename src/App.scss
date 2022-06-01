@@ -1,0 +1,29 @@
+input[type="number"] {
+    -webkit-appearance: textfield;
+       -moz-appearance: textfield;
+            appearance: textfield;
+  }
+  input[type=number]::-webkit-inner-spin-button,
+  input[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+  }
+
+  ol, ul {
+   padding: 0;
+}
+
+h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
+    margin: 0;
+}
+
+p {
+    margin: 0;
+}
+
+body {
+    font-family: 'Spartan', sans-serif;
+}
+
+.row > * {
+    width: fit-content;
+}
